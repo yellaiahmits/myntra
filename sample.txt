@@ -1,2 +1,3 @@
 hi welcome to Git Bash 
 try to learn more to explore
+updated from github
